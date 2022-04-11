@@ -1,0 +1,145 @@
+#about {
+  padding-top: 8rem;
+  padding-bottom: 4rem;
+  background-image: url("../img/zero-section.svg");
+}
+/* MENU */
+
+#judulberita {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background-image: url("../img/judulberita.svg");
+}
+
+#hobiden {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background-image: url("../img/judulberita.svg");
+}
+
+#header_berita {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background-image: url("../img/judulberita.svg");
+}
+
+#header_hobi {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background-image: url("../img/hobby1.svg");
+}
+
+#header_tips {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background-image: url("../img/tips1.svg");
+}
+
+.isihobiden{
+  padding-top: 2rem;
+}
+
+#profden{
+  padding-bottom: 2rem;
+}
+
+#judultips {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background-image: url("../img/tips1.svg");
+}
+
+#judulhobby {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background-image: url("../img/hobby1.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+/* END MENU */
+
+/* HOBBY */
+#hobby1 {
+  color: white;
+  background-image: url("../img/hobby2.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 8rem;
+}
+
+#hobby2 {
+  color: white;
+  background-image: url("../img/hobby3.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 10rem;
+}
+
+#hobby3 {
+  color: white;
+  background-image: url("../img/hobby4.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 5rem;
+}
+
+/* END HOBBY */
+a {
+  text-decoration: none;
+}
+/* END HOBBY */
+
+#service {
+  background-color: #f3f6fa;
+  padding-bottom: 4rem;
+}
+
+#contact {
+  padding-bottom: 4rem;
+}
+#footer {
+  color: white;
+  padding-bottom: 1rem;
+  background-color: #333333;
+}
+
+#blog {
+  padding-top: 8rem;
+  padding-bottom: 5rem;
+  /* background-color: black; */
+  background-image: url("../img/1.jpg");
+  background-repeat: no-repeat;
+  /* background-attachment: fixed; */
+  background-size: cover;
+}
+
+#blog .container {
+  color: white;
+}
+
+#recent {
+  padding-bottom: 4rem;
+}
+
+#recent .card-title {
+  text-align: start;
+}
+/* #blog .container {
+    text-decoration: white;
+  } */
+
+section {
+  padding-top: 5rem;
+}
+
+.navbar-nav.navbar-center {
+  position: absolute;
+  left: 50%;
+  transform: translatex(-50%);
+}
+/* Icons */
